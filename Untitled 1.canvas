@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"type":"text","text":"Выбор источника данных","id":"a0521ae0e048f23b","x":142,"y":434,"width":250,"height":60},
+		{"type":"text","text":"ETL","id":"5b17e56940bebfcd","x":243,"y":716,"width":250,"height":60},
+		{"type":"text","text":"EDA","id":"2ab74a4b08691ff2","x":461,"y":996,"width":250,"height":60},
+		{"type":"text","text":"Цель или метрика","id":"d49eb316eca457d9","x":647,"y":511,"width":250,"height":60},
+		{"type":"text","text":"Отчистка данных","id":"d7a5c71c8ff5a9a1","x":-60,"y":960,"width":250,"height":60},
+		{"type":"text","text":"Выбор модели","id":"7908f24da071118a","x":176,"y":1123,"width":250,"height":60},
+		{"type":"text","text":"Обучение модели","id":"a38fa9eba2f9db0f","x":536,"y":1144,"width":250,"height":60},
+		{"type":"text","text":"Оценка модели","id":"2fe0c08382f5d1e9","x":907,"y":1153,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"0829f41743dab979","fromNode":"a0521ae0e048f23b","fromSide":"bottom","toNode":"5b17e56940bebfcd","toSide":"bottom"},
+		{"id":"8729bdf936ab0efe","fromNode":"d49eb316eca457d9","fromSide":"bottom","toNode":"5b17e56940bebfcd","toSide":"right"},
+		{"id":"b0c3f4c095295168","fromNode":"5b17e56940bebfcd","fromSide":"bottom","toNode":"2ab74a4b08691ff2","toSide":"top"},
+		{"id":"2a56bc77794d6448","fromNode":"5b17e56940bebfcd","fromSide":"left","toNode":"d7a5c71c8ff5a9a1","toSide":"bottom"},
+		{"id":"ab5376ad1822c66e","fromNode":"d7a5c71c8ff5a9a1","fromSide":"right","toNode":"7908f24da071118a","toSide":"left"},
+		{"id":"1c64ea309f06d5df","fromNode":"7908f24da071118a","fromSide":"right","toNode":"a38fa9eba2f9db0f","toSide":"left"},
+		{"id":"b7aa4eb1178ef7f0","fromNode":"a38fa9eba2f9db0f","fromSide":"right","toNode":"2fe0c08382f5d1e9","toSide":"left"},
+		{"id":"6cd31895e2eb1188","fromNode":"2fe0c08382f5d1e9","fromSide":"bottom","toNode":"7908f24da071118a","toSide":"bottom"},
+		{"id":"b51e00c1b192cee8","fromNode":"2fe0c08382f5d1e9","fromSide":"top","toNode":"a0521ae0e048f23b","toSide":"top"},
+		{"id":"aff5560b78e154a9","fromNode":"2ab74a4b08691ff2","fromSide":"left","toNode":"5b17e56940bebfcd","toSide":"bottom"}
+	]
+}
