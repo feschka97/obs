@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"text","text":"Dataset","id":"32d3c0999ae7f358","x":-125,"y":-157,"width":250,"height":60},
+		{"type":"text","text":"Learning","id":"ec587769aa01d4d9","x":-120,"y":-40,"width":160,"height":60},
+		{"type":"text","text":"Tedt","id":"538d0e4fc3a2c77d","x":20,"y":-40,"width":100,"height":60},
+		{"type":"text","text":"Valid","id":"a094f226c9893c19","x":-60,"y":60,"width":94,"height":63},
+		{"type":"text","text":"Learning ","id":"84b35983649f3392","x":-120,"y":40,"width":117,"height":75},
+		{"type":"text","text":"Maxhinge learning algorithm","id":"8f5b10b3a633bf31","x":-200,"y":200,"width":250,"height":60},
+		{"type":"text","text":"Прогнос иоделиг","id":"1f1953e638679c2f","x":-43,"y":343,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"6066a44a6be2ea26","fromNode":"84b35983649f3392","fromSide":"left","toNode":"8f5b10b3a633bf31","toSide":"top"},
+		{"id":"8b6b85b53fa7cc39","fromNode":"8f5b10b3a633bf31","fromSide":"bottom","toNode":"1f1953e638679c2f","toSide":"left"}
+	]
+}

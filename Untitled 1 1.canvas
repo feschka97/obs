@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"text","text":"Data","id":"cfbdd821efc348ea","x":-160,"y":-260,"width":250,"height":60},
+		{"type":"text","text":"Обучение","id":"c67758ca541c6166","x":-160,"y":-157,"width":180,"height":57},
+		{"type":"text","text":"Тест","id":"4f6170e9f1c04a55","x":0,"y":-160,"width":100,"height":60},
+		{"id":"7fa0d1f767b9c18b","x":-160,"y":-80,"width":172,"height":60,"type":"text","text":"Разделённое на фолды обучение"}
+	],
+	"edges":[]
+}
