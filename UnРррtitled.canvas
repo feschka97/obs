@@ -16,7 +16,7 @@
 		{"type":"text","text":"Кластеризация (разбиение на кластеры)","id":"d7d57f19bb855b4d","x":-585,"y":320,"width":250,"height":84},
 		{"type":"text","text":"Выявление аномалий","id":"1c3491676c7bf5f2","x":-350,"y":130,"width":250,"height":60},
 		{"type":"text","text":"Ассоциация\n(Выявление последовательности)","id":"81d68af9b2895d6f","x":-350,"y":220,"width":240,"height":80},
-		{"id":"4617aee9b75e14c2","x":-380,"y":-320,"width":400,"height":50,"type":"file","file":"remotee/Машинное обучение.md"}
+		{"id":"c610b7ea6485e5f6","x":-350,"y":-320,"width":250,"height":60,"type":"text","text":"Машинное обучение"}
 	],
 	"edges":[
 		{"id":"97bc52221608e3fc","fromNode":"7899a8a085ff7e13","fromSide":"bottom","toNode":"9658012865b9c0c0","toSide":"top"},
@@ -31,9 +31,7 @@
 		{"id":"f344321b733736df","fromNode":"cbd32f06275f83bc","fromSide":"right","toNode":"1c3491676c7bf5f2","toSide":"left"},
 		{"id":"cb2eecc2856eac62","fromNode":"cbd32f06275f83bc","fromSide":"bottom","toNode":"82eb4bb35e66ae1a","toSide":"right"},
 		{"id":"f42c7559ad9dc467","fromNode":"cbd32f06275f83bc","fromSide":"right","toNode":"81d68af9b2895d6f","toSide":"left"},
-		{"id":"01dec0f24c6245ce","fromNode":"4617aee9b75e14c2","fromSide":"left","toNode":"73d09f58eca6de20","toSide":"top"},
-		{"id":"4fde46c50a7abefa","fromNode":"4617aee9b75e14c2","fromSide":"right","toNode":"7899a8a085ff7e13","toSide":"top"},
-		{"id":"eba75634e4df13ff","fromNode":"4617aee9b75e14c2","fromSide":"bottom","toNode":"431b7ba45972e556","toSide":"top"},
-		{"id":"204362e60bdf0c78","fromNode":"4617aee9b75e14c2","fromSide":"bottom","toNode":"70b738ae8d547fa7","toSide":"top"}
+		{"id":"8177939ae2c03448","fromNode":"c610b7ea6485e5f6","fromSide":"left","toNode":"73d09f58eca6de20","toSide":"top"},
+		{"id":"579a6727d43b04d9","fromNode":"c610b7ea6485e5f6","fromSide":"right","toNode":"7899a8a085ff7e13","toSide":"top"}
 	]
 }
