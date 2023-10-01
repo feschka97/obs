@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "4be0e5a568506690",
+    "type": "split",
+    "children": [
+      {
+        "id": "0da3a2255994d2bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "905713562d2b14bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Основы нейронных сетей.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6cae71b7433a70f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "41ae5138cb69390a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "def47f7773f526ec",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7595ec23e748a501",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f7185774f58d9c3c",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "251f715c5972e7e8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a8e9fab34f00d1f5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Основы нейронных сетей.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      },
+      {
+        "id": "631cfe1e9b9480b8",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Основы нейронных сетей.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "020a8ef4d8fcb302",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Основы нейронных сетей.md"
+          }
+        }
+      },
+      {
+        "id": "8a7fc993e9ff4aaf",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "41ae5138cb69390a",
+  "lastOpenFiles": [
+    "NaN.md",
+    "чёто данные.md",
+    "Элементы конфигурации 1с.md",
+    "Среднее значение.md",
+    "Производственный процесс.md",
+    "Основы нейронных сетей.md",
+    "Методы проектирования систем и технологий.md",
+    "Методы Canvas 1.canvas",
+    "Машинное обучение.md",
+    "Машинное обучение.canvas",
+    "Математический анализ.md",
+    "Курса.md",
+    "Кросс-валидация.md",
+    "Кис.md",
+    "Дисперсия.md",
+    "Выборка.md",
+    "Визуализация.md",
+    "Ванеев на перепись.md",
+    "Администрирование.md",
+    "UnРррtitled.canvas",
+    "Untitled.canvas",
+    "Untitled 1 1.canvas",
+    "Pandas.md",
+    "Synq/Ванеев на перепись.md",
+    "synq/NaN.md",
+    "Synq",
+    "Synq/чёто данные.md",
+    "Synq/Элементы конфигурации 1с.md",
+    "Synq/Среднее значение.md",
+    "Synq/Производственный процесс.md",
+    "Synq/Основы нейронных сетей.md",
+    "Synq/Методы Canvas 1.canvas",
+    "Synq/Машинное обучение.canvas",
+    "Synq/UnРррtitled.canvas",
+    "Synq/Untitled.canvas",
+    "Synq/Untitled 1 1.canvas",
+    "Мисприс",
+    "synq"
+  ]
+}
