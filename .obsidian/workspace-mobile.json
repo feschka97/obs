@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основы нейронных сетей.md",
-                "mode": "source",
+                "file": "Производственный процесс.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Основы нейронных сетей.md",
+            "file": "Производственный процесс.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Основы нейронных сетей.md",
+            "file": "Производственный процесс.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Основы нейронных сетей.md"
+            "file": "Производственный процесс.md"
           }
         }
       },
@@ -139,8 +139,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41ae5138cb69390a",
+  "active": "905713562d2b14bc",
   "lastOpenFiles": [
+    "Производственный процесс.md",
+    "Администрирование.md",
+    "Ванеев на перепись.md",
+    "Методы проектирования систем и технологий.md",
+    "Основы нейронных сетей.md",
     "/чёто данные.md",
     "/Элементы конфигурации 1с.md",
     "/Среднее значение.md",
@@ -167,12 +172,7 @@
     "NaN.md",
     "чёто данные.md",
     "Элементы конфигурации 1с.md",
-    "Среднее значение.md",
-    "Производственный процесс.md",
-    "Основы нейронных сетей.md",
-    "Методы проектирования систем и технологий.md",
     "Методы Canvas 1.canvas",
-    "Машинное обучение.md",
     "Машинное обучение.canvas",
     "UnРррtitled.canvas",
     "Untitled.canvas",
