@@ -1,1 +1,1 @@
-NaN - Not a Number haha
+NaN - Not a Number
