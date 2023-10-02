@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":"Производственные ИС ","id":"e3828ebed8d3dcc5","x":411,"y":169,"width":250,"height":60},
+		{"type":"text","text":"Бизнес-инженеринг ","id":"ad6038171de7a006","x":50,"y":171,"width":250,"height":60},
+		{"type":"text","text":"Системная инженерия ","id":"849019daecf0415d","x":750,"y":168,"width":250,"height":60},
+		{"type":"text","text":"Информатика ~~~~","id":"11896771901615c1","x":474,"y":352,"width":250,"height":60},
+		{"id":"93deff6dfc02e50a","x":507,"y":523,"width":210,"height":50,"type":"text","text":"Программирование "},
+		{"id":"08f071be6ee87153","x":405,"y":446,"width":157,"height":76,"type":"text","text":"Управление данными "}
+	],
+	"edges":[
+		{"id":"ebcdcd4f9637a266","fromNode":"ad6038171de7a006","fromSide":"right","toNode":"e3828ebed8d3dcc5","toSide":"left"},
+		{"id":"317f467e6fbdfb73","fromNode":"e3828ebed8d3dcc5","fromSide":"right","toNode":"849019daecf0415d","toSide":"left"},
+		{"id":"00a1e6aa591c995d","fromNode":"e3828ebed8d3dcc5","fromSide":"bottom","toNode":"11896771901615c1","toSide":"top"},
+		{"id":"282ba28dd2cd22fb","fromNode":"11896771901615c1","fromSide":"bottom","toNode":"08f071be6ee87153","toSide":"top"},
+		{"id":"b772d36854574d39","fromNode":"11896771901615c1","fromSide":"bottom","toNode":"93deff6dfc02e50a","toSide":"top"}
+	]
+}
