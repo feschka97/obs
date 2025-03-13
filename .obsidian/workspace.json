@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Методы научного познания.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "03337b6457425185",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "69c7825db6b7a6fc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Методы научного познания"
             }
           }
         ]
@@ -195,7 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3aa910f0ee1bb000",
+  "active": "0cb90ca4fe478c9c",
   "lastOpenFiles": [
     "я готовлюсь к контрольным, честно.md",
     "Элементы конфигурации 1с.md",
