@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "7e2068905c5bbf12",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3e102a06916bc14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cb90ca4fe478c9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          }
+        ]
+      },
+      {
+        "id": "03337b6457425185",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69c7825db6b7a6fc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5cd6a54300fd77cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "901161189cf598a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aa910f0ee1bb000",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ab4f01da68821936",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c026343f191c8f71",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce3ea13e51f5ce77",
+    "type": "split",
+    "children": [
+      {
+        "id": "9db826775b6535d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8607d9c181cb7620",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "b8a146196d299c62",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "4ed0af426e455a5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ac683650bc5f1ded",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "326c2445e72f3cf1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3aa910f0ee1bb000",
+  "lastOpenFiles": [
+    "я готовлюсь к контрольным, честно.md",
+    "Элементы конфигурации 1с.md",
+    "чёто данные.md",
+    "Среднее значение.md",
+    "Производственный процесс.md",
+    "Основы нейронных сетей.md",
+    "Методы проектирования систем и технологий.md",
+    "Методы Canvas 1.canvas",
+    "Машинное обучение.md",
+    "Машинное обучение.canvas",
+    "Математический анализ.md",
+    "Курса.md",
+    "Кросс-валидация.md",
+    "Кис.md",
+    "Дисперсия.md",
+    "Выборка.md",
+    "Визуализация.md",
+    "Ванеев на перепись.md",
+    "Администрирование.md",
+    "UnРррtitled.canvas",
+    "Untitled 1 1.canvas",
+    "Untitled.canvas",
+    "Pandas.md",
+    "NaN.md",
+    "IMG_20231114_113334.jpg",
+    "IMG_20231114_111549.jpg",
+    "IMG_20231106_111606.jpg",
+    "obs/я готовлюсь к контрольным, честно.md",
+    "obs/чёто данные.md",
+    "obs/Элементы конфигурации 1с.md",
+    "obs/Среднее значение.md",
+    "obs/Производственный процесс.md",
+    "obs/Основы нейронных сетей.md",
+    "obs/Методы проектирования систем и технологий.md",
+    "obs/Методы Canvas 1.canvas",
+    "obs/Машинное обучение.canvas",
+    "obs/UnРррtitled.canvas",
+    "obs/Untitled.canvas",
+    "obs/Untitled 1 1.canvas",
+    "obs/IMG_20231114_113334.jpg",
+    "obs/IMG_20231114_111549.jpg",
+    "obs/IMG_20231106_111606.jpg",
+    "obs"
+  ]
+}
