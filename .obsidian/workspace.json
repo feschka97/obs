@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/Проблемные ситуации и их роль в научном познании.md",
+                "file": "Научное знание в философии.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Проблемные ситуации и их роль в научном познании"
+              "title": "Научное знание в философии"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled/Проблемные ситуации и их роль в научном познании.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Проблемные ситуации и их роль в научном познании"
+              "title": "Outline of Welcome"
             }
           },
           {
@@ -180,18 +180,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "326c2445e72f3cf1",
+  "active": "0cb90ca4fe478c9c",
   "lastOpenFiles": [
-    "Untitled/Эмперические методы познания.md",
-    "Untitled/Проблемные ситуации и их роль в научном познании.md",
+    "Научное знание в философии.md",
     "я готовлюсь к контрольным, честно.md",
-    "Администрирование.md",
-    "Untitled",
-    "NaN.md",
-    "Среднее значение.md",
-    "Untitled/Научное знание в философии.md",
     "Элементы конфигурации 1с.md",
     "чёто данные.md",
+    "Среднее значение.md",
     "Производственный процесс.md",
     "Основы нейронных сетей.md",
     "Методы проектирования систем и технологий.md",
@@ -206,10 +201,12 @@
     "Выборка.md",
     "Визуализация.md",
     "Ванеев на перепись.md",
+    "Администрирование.md",
     "UnРррtitled.canvas",
     "Untitled 1 1.canvas",
     "Untitled.canvas",
     "Pandas.md",
+    "NaN.md",
     "IMG_20231114_113334.jpg",
     "IMG_20231114_111549.jpg",
     "IMG_20231106_111606.jpg",
@@ -217,6 +214,8 @@
     "obs/чёто данные.md",
     "obs/Элементы конфигурации 1с.md",
     "obs/Среднее значение.md",
+    "obs/Производственный процесс.md",
+    "obs/Основы нейронных сетей.md",
     "obs/Методы Canvas 1.canvas",
     "obs/Машинное обучение.canvas",
     "obs/UnРррtitled.canvas",
