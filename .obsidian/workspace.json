@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/Проблемные ситуации и их роль в научном познании.md",
+                "file": "Untitled/Философия_1-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Проблемные ситуации и их роль в научном познании"
+              "title": "Философия_1-5"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ce3ea13e51f5ce77",
@@ -180,10 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "326c2445e72f3cf1",
+  "active": "0cb90ca4fe478c9c",
   "lastOpenFiles": [
-    "Untitled/Эмперические методы познания.md",
     "Untitled/Проблемные ситуации и их роль в научном познании.md",
+    "Untitled/Философия_1-5.md",
+    "Untitled/Эмперические методы познания.md",
     "я готовлюсь к контрольным, честно.md",
     "Администрирование.md",
     "Untitled",
@@ -216,7 +216,6 @@
     "obs/я готовлюсь к контрольным, честно.md",
     "obs/чёто данные.md",
     "obs/Элементы конфигурации 1с.md",
-    "obs/Среднее значение.md",
     "obs/Методы Canvas 1.canvas",
     "obs/Машинное обучение.canvas",
     "obs/UnРррtitled.canvas",
