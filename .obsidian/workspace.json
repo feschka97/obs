@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b3e102a06916bc14",
+        "id": "52effdf0d46f50e0",
         "type": "tabs",
         "children": [
           {
-            "id": "0cb90ca4fe478c9c",
+            "id": "45f393c85b00c875",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
         ]
@@ -179,10 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cb90ca4fe478c9c",
+  "active": "45f393c85b00c875",
   "lastOpenFiles": [
-    "Untitled/Философия_1-5.md",
     "conflict-files-obsidian-git.md",
+    "Untitled/Философия_1-5.md",
     "социальная ответственность, вопрос 3.md",
     "Эмперические методы познания.md",
     "Философия_1-5.md",
